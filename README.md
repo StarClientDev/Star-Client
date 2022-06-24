@@ -1,4 +1,5 @@
 # Star-Client
+All versions are on our [https://github.com/StarClientDev/Star-Client/releases](release page)
 Star Client is a free to use utility client available to all.This is for educational and evaluation purposes only. no responsibility is held or accepted for misuse. Use at your own risk!
 THE CLIENT DOES NOT CONTAIN ANY CHEATS OR EXPLOITS
 
