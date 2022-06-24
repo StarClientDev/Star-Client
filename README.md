@@ -7,3 +7,4 @@ join the discord server for any questions at: https://discord.gg/DzrwkQXHBY
 take note of some modules which may be bannable.
 -freecam
 -fullbright
+-inventory utility mod (auto sorts inventory)
